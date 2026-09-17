@@ -37,3 +37,5 @@ for name, url, locator in websites:
         search_box.send_keys(Keys.RETURN)
         
         time.sleep(2)
+        
+driver.quit()
