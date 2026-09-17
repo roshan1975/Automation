@@ -12,3 +12,10 @@ websites = [
     ("Yahoo","https://search.yahoo.com",(By.NAME,"p")),
     ("Yandex","https://yandex.com",(By.NAME,"text"))
 ]
+
+queries = [
+    "Python Tutorial",
+    "Web Scraping",
+    "Web Design",
+    "Python OOP"
+]
