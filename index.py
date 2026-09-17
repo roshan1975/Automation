@@ -19,3 +19,21 @@ queries = [
     "Web Design",
     "Python OOP"
 ]
+
+for name, url, locator in websites:
+    
+    for query in queries:
+        
+        
+        print(f"{name} -> {query}")
+        
+        driver.get(url)
+        
+        time.sleep(1)
+
+        search_box = driver.find_element(*locator)
+        search_box.clear()
+        search_box.send_keys(query)
+        search_box.send_keys(Keys.RETURN)
+        
+        time.sleep(2)
