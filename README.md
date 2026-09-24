@@ -1,8 +1,8 @@
 ## 1. Project Title
 
-# Search Engine Automation — Python Selenium Project
+Search Engine Automation — Python Selenium Project
 
-# 2. What Is This Project?
+## 2. What Is This Project?
 
 This is a simple web automation program made with Python and Selenium.
 
@@ -16,7 +16,7 @@ The program searches on:
 - Yahoo
 - Yandex
 
-# 3. Why Did I Make This?
+## 3. Why Did I Make This?
 
 I made this project to practice Python and learn the basics of **Selenium Web Automation**.
 
@@ -24,7 +24,7 @@ It helped me learn how to open websites, find search boxes, enter text, and perf
 
 It is a beginner-level learning project.
 
-# 4. 1. How to Run It
+## 4. 1. How to Run It
 
 ### Step 1
 
@@ -53,7 +53,7 @@ The program will automatically search for:
 
 on different search engines.
 
-# 5. What Did I Learn?
+## 5. What Did I Learn?
 
 While making this project, I learned:
 
@@ -66,7 +66,7 @@ While making this project, I learned:
 7. How to automate browser tasks
 8. How to work with multiple websites
 
-# 6. Tools I Used
+## 6. Tools I Used
 1. Python
 2. Selenium
 3. Google Chrome
