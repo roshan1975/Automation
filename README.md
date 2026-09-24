@@ -46,10 +46,10 @@ python search.py
 ### Step 4
 The program will automatically search for:
 
-1. Python Tutorial
-2. Web Scraping
-3. Web Design
-4. Python OOP
+- Python Tutorial
+- Web Scraping
+- Web Design
+- Python OOP
 
 on different search engines.
 
@@ -57,20 +57,20 @@ on different search engines.
 
 While making this project, I learned:
 
-1. How to open websites using Selenium
-2. How to find elements using By.NAME
-3. How to type using send_keys()
-4. How to clear a search box using clear()
-5. How to press Enter using Keys.RETURN
-6. How to use for loops
-7. How to automate browser tasks
-8. How to work with multiple websites
+- How to open websites using Selenium
+- How to find elements using By.NAME
+- How to type using send_keys()
+- How to clear a search box using clear()
+- How to press Enter using Keys.RETURN
+- How to use for loops
+- How to automate browser tasks
+- How to work with multiple websites
 
 ## 6. Tools I Used
-1. Python
-2. Selenium
-3. Google Chrome
-💻 VS Code
+- Python
+- Selenium
+- Google Chrome
+- VS Code
 
 ## 7. About Me
 Hi! I'm Roshan, a Class 7 student learning Python and programming. I enjoy building small projects and improving my coding skills.
