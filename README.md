@@ -55,16 +55,15 @@ on different search engines.
 
 ## 5. What Did I Learn?
 
-While making this project, I learned:
+This project uses Selenium to automate searches on multiple search engines.
 
-- How to open websites using Selenium
-- How to find elements using By.NAME
-- How to type using send_keys()
-- How to clear a search box using clear()
-- How to press Enter using Keys.RETURN
-- How to use for loops
-- How to automate browser tasks
-- How to work with multiple websites
+The program:
+- Opens different search engines
+- Finds the search box
+- Enters search queries
+- Presses the Enter key
+- Waits for the search results
+- Repeats the process automatically
 
 ## 6. Tools I Used
 - Python
