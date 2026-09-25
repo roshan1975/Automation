@@ -23,7 +23,10 @@ queries = [
 for name, url, locator in websites:
     
     for query in queries:
-        
+        print("\n================================")
+        print(f"Search Engine: {name}")
+        print(f"Query: {query}")
+        print("================================")
         
         print(f"{name} -> {query}")
         
@@ -37,5 +40,9 @@ for name, url, locator in websites:
         search_box.send_keys(Keys.RETURN)
         
         time.sleep(2)
+
+        print(f"Search completed: {query}")
+        print(f"Page Title: {driver.title}")
         
 driver.quit()
+print("\n All searches completed successfully!")
